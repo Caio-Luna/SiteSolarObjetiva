@@ -3,7 +3,7 @@ Site da Empresa Solar Objetiva Engenharia Sustentável
 
 
 <p align="center">
-  <img width="600" height="400" src="src/assets/video.gif">
+  <img width="600" height="400" src="video.gif">
 </p>
 
 ##Link
@@ -12,7 +12,7 @@ Site da Empresa Solar Objetiva Engenharia Sustentável
 
 
 ## Description
-Landing Page para a empresa Solar Objetiva Engenharia Sustentável desenvolvido com a tecnologia [Bootstrap 5](https://react.dev/).Um site simples com um layout agradável.
+Landing Page para a empresa Solar Objetiva Engenharia Sustentável desenvolvido com a tecnologia [Bootstrap 5](https://getbootstrap.com/). Um site simples com um layout agradável.
 
 
 ## Packages
